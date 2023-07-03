@@ -6,7 +6,7 @@ This repo checks emails for emails that you have already sent.
 
 IMPORTANT FOLLOW EXACTLY AS LISTED
 
-2. Once you find a collective of emails that you like paste it into the emails1.txt, and then copy the already emailed list from the shared google sheets (highlighted yellow) and paste it into emails2.txt
+2. Once you find a collective of emails that you like paste it into the emails1.txt, and then copy the already emailed list from the shared google sheets (highlighted yellow) and paste it into emails2.txt. https://docs.google.com/spreadsheets/d/1-8VogKv-7WHM_zg6TG0LyrlSlXcD4x-wC1OpELFgQr8/edit?usp=sharing
    
 3. Run main.py (This removes duplicates)
    
