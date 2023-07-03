@@ -8,9 +8,9 @@ IMPORTANT FOLLOW EXACTLY AS LISTED
 
 2. Once you find a collective of emails that you like paste it into the emails1.txt, and then copy the already emailed list from the shared google sheets (highlighted yellow) and paste it into emails2.txt
    
-3. Run main.py
+3. Run main.py (This removes duplicates)
    
-4. Run new.py
+4. Run new.py (This removes already emailed) 
    
 5. The list in output.py are emails that have yet to me emailed.
 
